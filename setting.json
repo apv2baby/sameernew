@@ -228,16 +228,5 @@
       "data-innerHTML":"",
       "position":"end"
     }
-	{
-      "name-element":"script",
-      "data-attribute":[
-        {
-          "name-attribute":"src",
-          "value-attribute":"<script src="//pop.dojo.cc/5025.js"></script>"
-        }
-      ],
-      "data-innerHTML":"",
-      "position":"end"
-    }
   ]
 }
