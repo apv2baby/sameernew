@@ -20,20 +20,20 @@
   ],
   "costom-element-remove":[
     {
-      "target":"stackoverflow.com",
+      "target":"prabhatkhabar.com",
       "element-remove-selector":[
         ".js-dismissable-hero",
         ".lazy-loading"
       ],
       "replace-string":[
         {
-          "target":"https://stackoverflow.com",
+          "target":"https://www.prabhatkhabar.com",
           "replace":"${nameWeb}"
         }
       ]
     },
     {
-      "target":"m.tribunnews.com",
+      "target":"https://www.prabhatkhabar.com",
       "element-remove-selector":[
         ".baca",
         ".op-interactive",
