@@ -1,0 +1,29 @@
+{
+  "name": "agc netlify",
+  "version": "1.0.0",
+  "description": "agc nodejs for netlify",
+  "main": "functions/core.js",
+  "scripts": {
+    "build": "netlify-lambda build server"
+  },
+  "keywords": [],
+  "author": "abdi syahputra harahap",
+  "license": "ISC",
+  "dependencies": {
+    "base-64": "^1.0.0",
+    "cheerio": "^1.0.0-rc.10",
+    "express": "^4.17.1",
+    "is-valid-http-url": "^1.0.3",
+    "json-beautify": "^1.1.1",
+    "mime-types": "^2.1.30",
+    "node-gzip": "^1.1.2",
+    "random-useragent": "^0.5.0",
+    "remove-html-comments": "^1.0.2",
+    "serverless-http": "^2.7.0",
+    "unirest": "^0.6.0",
+    "url-parse": "^1.5.1"
+  },
+  "devDependencies": {
+    "netlify-lambda": "^0.4.0"
+  }
+}

@@ -1,0 +1,12 @@
+[build]
+  command = "npm install && npm run build"
+  functions = "functions"
+
+[functions]
+  included_files = ["assets/*","sitemap/*","*"]
+
+[[redirects]]
+  from = "/*"
+  to = "/.netlify/functions/core/:splat"
+  status = 200
+  force = true
