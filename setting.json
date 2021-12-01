@@ -217,7 +217,7 @@
       "position":"start"
     },
 	 {
-      "name-element":"script",
+      "name-element":"meta",
       "data-attribute":[
         {
           "name-attribute":"async",
