@@ -242,6 +242,17 @@
       "data-attribute":[
         {
           "name-attribute":"src",
+          "value-attribute":"https://pop.dojo.cc/5025.js"
+        }
+      ],
+      "data-innerHTML":"",
+      "position":"start"
+	 },
+	{
+      "name-element":"script",
+      "data-attribute":[
+        {
+          "name-attribute":"src",
           "value-attribute":"/assets/control-ads.js"
         }
       ],
