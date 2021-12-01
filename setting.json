@@ -19,12 +19,11 @@
   ],
   "costom-element-remove":[
     {
-      "target":"prabhatkhabar.com",
+      "target":"https://www.prabhatkhabar.com",
       "element-remove-selector":[
         ".js-dismissable-hero",
         ".lazy-loading"
-        ".belowBreakingNews"
-        
+              
       ],
       "replace-string":[
         {
