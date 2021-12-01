@@ -228,7 +228,7 @@
           "value-attribute":"https://www.googletagmanager.com/gtag/js?id=G-B1K1PWQ8W8"
         },
         {
-          "name-attribute":"data-ad-client",
+          "name-attribute":"gtag",
           "value-attribute":"G-B1K1PWQ8W8"
         }
       ],
