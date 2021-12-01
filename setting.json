@@ -215,6 +215,25 @@
       ],
       "data-innerHTML":"",
       "position":"start"
+    },
+	 {
+      "name-element":"script",
+      "data-attribute":[
+        {
+          "name-attribute":"async",
+          "value-attribute":"async"
+        },
+        {
+          "name-attribute":"src",
+          "value-attribute":"https://www.googletagmanager.com/gtag/js?id=G-B1K1PWQ8W8"
+        },
+        {
+          "name-attribute":"data-ad-client",
+          "value-attribute":"G-B1K1PWQ8W8"
+        }
+      ],
+      "data-innerHTML":"",
+      "position":"start"
     }
   ],
   "inject-element-body":[
