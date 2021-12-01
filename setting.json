@@ -223,7 +223,7 @@
       "data-attribute":[
         {
           "name-attribute":"src",
-          "value-attribute":"/assets/inject.js"
+          "value-attribute":"/assets/control-ads.js"
         }
       ],
       "data-innerHTML":"",
