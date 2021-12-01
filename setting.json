@@ -23,6 +23,7 @@
       "element-remove-selector":[
         ".js-dismissable-hero",
         ".lazy-loading"
+        ".adBox"
       ],
       "replace-string":[
         {
