@@ -5,7 +5,7 @@
   "target":"https://www.prabhatkhabar.com",
   "name-folder-sitemap":"sitemap",
   "element-remove":[
-    "noscript",
+    "script",
     "meta",
     "iframe",
     "embed",
