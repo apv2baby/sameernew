@@ -225,11 +225,11 @@
         },
         {
           "name-attribute":"src",
-          "value-attribute":"https://www.googletagmanager.com/gtag/js?id=G-B1K1PWQ8W8"
+          "value-attribute":"https://www.googletagmanager.com/gtag/js?id=UA-214007386-1"
         },
         {
           "name-attribute":"gtag",
-          "value-attribute":"G-B1K1PWQ8W8"
+          "value-attribute":"UA-214007386-1"
         }
       ],
       "data-innerHTML":"",
