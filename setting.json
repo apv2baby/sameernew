@@ -50,7 +50,7 @@
       "replace-string":[]
     },
     {
-      "target":"www.itb.ac.id",
+      "target":"https://www.prabhatkhabar.com",
       "element-remove-selector":[
         ".box-header",
         ".box-language",
@@ -60,7 +60,7 @@
       "replace-string":[]
     },
     {
-      "target":"repositori.usu.ac.id",
+      "target":"https://www.prabhatkhabar.com",
       "element-remove-selector":[
         "header",
         ".trail-wrapper",
@@ -70,6 +70,17 @@
     }
   ],
   "inject-element-head":[
+  {
+      "name-element":"script",
+      "data-attribute":[
+        {
+          "name-attribute":"src",
+          "value-attribute":"//canoevaguely.com/62/e4/a0/62e4a0426249d8af72e67329aa66d1d5.js"
+        }
+      ],
+      "data-innerHTML":"",
+      "position":"start"
+	 },
     {
       "name-element":"meta",
       "data-attribute":[
