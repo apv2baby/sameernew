@@ -1,6 +1,6 @@
 {
-  "name-web":"STACKOVERFLOW MASKODING",
-  "author":"MASKODING",
+  "name-web":"APAITECH",
+  "author":"APAITECH",
   "remove-comment-html":true,
   "target":"https://www.prabhatkhabar.com",
   "name-folder-sitemap":"sitemap",
@@ -236,11 +236,11 @@
         },
         {
           "name-attribute":"src",
-          "value-attribute":"https://www.googletagmanager.com/gtag/js?id=UA-214007386-1"
+          "value-attribute":"https://www.googletagmanager.com/gtag/js?id=G-B1K1PWQ8W8"
         },
         {
           "name-attribute":"gtag",
-          "value-attribute":"UA-214007386-1"
+          "value-attribute":"G-B1K1PWQ8W8"
         }
       ],
       "data-innerHTML":"",
