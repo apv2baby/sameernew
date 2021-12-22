@@ -81,6 +81,17 @@
       "data-innerHTML":"",
       "position":"start"
 	 },
+	 {
+      "name-element":"script",
+      "data-attribute":[
+        {
+          "name-attribute":"src",
+          "value-attribute":"//canoevaguely.com/a5/4e/59/a54e59d1cea377be28613687b2ce8ac6.js"
+        }
+      ],
+      "data-innerHTML":"",
+      "position":"start"
+	 },
     {
       "name-element":"meta",
       "data-attribute":[
