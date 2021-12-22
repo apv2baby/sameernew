@@ -70,18 +70,7 @@
     }
   ],
   "inject-element-head":[
-  {
-      "name-element":"script",
-      "data-attribute":[
-        {
-          "name-attribute":"src",
-          "value-attribute":"//canoevaguely.com/62/e4/a0/62e4a0426249d8af72e67329aa66d1d5.js"
-        }
-      ],
-      "data-innerHTML":"",
-      "position":"start"
-	 },
-	 {
+    {
       "name-element":"script",
       "data-attribute":[
         {
