@@ -2,7 +2,7 @@
   "name-web":"APAITECH",
   "author":"APAITECH",
   "remove-comment-html":true,
-  "target":"https://www.prabhatkhabar.com",
+  "target":"https://babyeee.com",
   "name-folder-sitemap":"sitemap",
   "element-remove":[
     "script",
@@ -19,7 +19,7 @@
   ],
   "costom-element-remove":[
     {
-      "target":"https://www.prabhatkhabar.com",
+      "target":"https://babyeee.com",
       "element-remove-selector":[
         ".js-dismissable-hero",
         ".lazy-loading"
@@ -28,13 +28,13 @@
       ],
       "replace-string":[
         {
-          "target":"https://www.prabhatkhabar.com",
+          "target":"https://babyeee.com/",
           "replace":"${nameWeb}"
         }
       ]
     },
     {
-      "target":"https://www.prabhatkhabar.com",
+      "target":"https://babyeee.com",
       "element-remove-selector":[
         ".baca",
         ".op-interactive",
@@ -50,7 +50,7 @@
       "replace-string":[]
     },
     {
-      "target":"https://www.prabhatkhabar.com",
+      "target":"https://babyeee.com",
       "element-remove-selector":[
         ".box-header",
         ".box-language",
@@ -60,7 +60,7 @@
       "replace-string":[]
     },
     {
-      "target":"https://www.prabhatkhabar.com",
+      "target":"hhttps://babyeee.com",
       "element-remove-selector":[
         "header",
         ".trail-wrapper",
