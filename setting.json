@@ -75,7 +75,7 @@
       "data-attribute":[
         {
           "name-attribute":"src",
-          "value-attribute":"//canoevaguely.com/a5/4e/59/a54e59d1cea377be28613687b2ce8ac6.js"
+          "value-attribute":"#"
         }
       ],
       "data-innerHTML":"",
@@ -90,7 +90,7 @@
         },
         {
           "name-attribute":"content",
-          "value-attribute":"tdwDvJl9tI5DAnMhFtBr7FQanvM9xrQE3nshBAAaT3Y"
+          "value-attribute":"CFoAZWfVQl2L6dyZugbGlrH6u3KQLwhvgXGI5g7-EKc"
         }
       ],
       "data-innerHTML":"",
@@ -236,11 +236,11 @@
         },
         {
           "name-attribute":"src",
-          "value-attribute":"https://www.googletagmanager.com/gtag/js"
+          "value-attribute":"#"
         },
         {
-          "name-attribute":"gtag",
-          "value-attribute":"G-B1K1PWQ8W8"
+          "name-attribute":"#",
+          "value-attribute":"#"
         }
       ],
       "data-innerHTML":"",
@@ -253,7 +253,7 @@
       "data-attribute":[
         {
           "name-attribute":"src",
-          "value-attribute":"src='//pop.dojo.cc/5025.js"
+          "value-attribute":"#"
         }
       ],
       "data-innerHTML":"",
